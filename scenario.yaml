@@ -1,0 +1,11 @@
+ProcessTest:
+ - testid : testid1
+   key    : testhandle1
+   input  : input1.json
+   expect : expect1.json
+   error  : none
+ - testid : testid2
+   key    : testhandle1
+   input  : input2.json
+   expect : expect2.json
+   error  : none
